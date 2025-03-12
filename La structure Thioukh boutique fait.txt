@@ -1,0 +1,3 @@
+La structure Thioukh boutique fait appel a vous pour la réalisation d'une application de gestion d'approvisionnement .
+Pour concevoir des habits on a besoin de fil(id,libelle), de bouton(id, type, quantite), de tissu(id, couleur,quantite, categorie_id) et des aiguilles(id,libelle,quantite),categorie(id,libelle)
+realiser un CRUD
